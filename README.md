@@ -1,5 +1,4 @@
-# ico2png
-
+# ico2png-cli
 This command line utility extracts PNG images from `.ico` files. It's based on the amazing [icojs](https://npmjs.com/package/icojs) library.
 
 ## Install
