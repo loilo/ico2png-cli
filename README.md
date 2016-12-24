@@ -1,8 +1,6 @@
 # ico2png
 
-> Batch extract `.png` images out of `.ico` files from the command line
-
-This command line utility extracts `.png` images from `.ico` files. It's based on the amazing [icojs](https://npmjs.com/package/icojs) library.
+This command line utility extracts PNG images from `.ico` files. It's based on the amazing [icojs](https://npmjs.com/package/icojs) library.
 
 ## Install
 ```console
