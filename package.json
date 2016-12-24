@@ -1,6 +1,6 @@
 {
   "name": "ico2png-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Batch convert .ico files to .png from the command line",
   "main": "src/index.js",
   "dependencies": {
