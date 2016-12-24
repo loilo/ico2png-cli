@@ -12,7 +12,7 @@ module.exports = require('yargs')
       describe: `
 A template for the output file names with {tokens}.
 Available tokens:
-#        Number of the currently exported image, starting with 1
+nr       Number of the currently exported image, starting with 1
 file     The original file name without file extension
 size     The size of the exported image if it's square, equals {width}-{height} else
 width    The width of the exported image
