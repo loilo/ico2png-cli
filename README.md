@@ -2,7 +2,7 @@
 
 > Batch extract `.png` images out of `.ico` files from the command line
 
-This command line utility extracts `.png` images from `.ico` files. It's based on the amazing [`icojs`](https://npmjs.com/package/icojs) library.
+This command line utility extracts `.png` images from `.ico` files. It's based on the amazing [icojs](https://npmjs.com/package/icojs) library.
 
 ## Install
 ```console
@@ -18,7 +18,11 @@ Usage is dead simple:
 $ ico2png path/to/ico/files
 ```
 
-The given path may either be pointing to a directory where the script looks for `.ico` files or be a glob string to find `.ico` files in a more advanced way.
+The given path may either
+
+* be a directory where the script looks for `.ico` files,
+* point to an `.ico` file directly or
+* be a glob string to find `.ico` files in a more advanced way.
 
 *Note:* You might have to put a glob string into quotes if it's containing any asterisks.
 
