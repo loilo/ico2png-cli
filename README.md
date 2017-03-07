@@ -28,7 +28,7 @@ The given path may either
 There are a bunch of options available, you can get them from the built-in help:
 
 ```console
-$ ico2png path/to/icons --help
+$ ico2png --help
 ```
 
 ---
